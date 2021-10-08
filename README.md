@@ -6,54 +6,58 @@
 
 #### What's going on?
 
-- 🌱 I’m currently learning [React](https://github.com/Gr3it/portfolio), [React-Native](https://github.com/Gr3it/Color-Screentest) and [C++ (At university)](https://github.com/Gr3it/Exercise).
-- 🔭 I’m always expandig my knoledge about web development to become a <em>full stack web developer!</em>
-- 📈 I'm also interest in crypto currency world!
+- 🌱 I’m currently learning [React](https://github.com/Gr3it/portfolio), [React-Native](https://github.com/Gr3it/Color-Screentest), and [C++ (At university)](https://github.com/Gr3it/Exercise).
+- 🔭 I’m always expanding my knowledge about web development to become a <em>full-stack web developer!</em>
+- 📈 I'm also interested in the cryptocurrency world!
 
-<div align="flex-start">
-  
+<div>
   <details>    
     <summary><b>My stats</b></summary>
   <br>
   <a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C&custom_title=Contributions%20in%20the%20last%2031%20days"/>
-  </a>  
+    <img src="https://activity-graph.herokuapp.com/graph?username=Gr3it&theme=minimal&custom_title=Contributions%20in%20the%20last%2031%20days"/>
+  </a>    
   
   <a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
-    <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gr3it&show_icons=true&theme=default"/>
   </a>   
   
   <a href="https://github.com/Gr3it?tab=repositories&q=&type=public" align="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"  align="top"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3it&layout=compact&theme=default"  align="top"/>
   </a>
 </details>
 
   <details>
-    <summary><b>My favourite languages, tools and technologies</b></summary>
+    <summary><b>My favorite languages, tools and technologies</b></summary>
   <br>
 
-  <a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/></a>
-    Web Development:
-  <a href="https://github.com/topics/html5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-  <a href="https://github.com/topics/css3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a> 
-  <a href="https://github.com/topics/javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
-  <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
-  <a href="https://github.com/topics/react-router"><img src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white"/></a>
-  
-      Version Control:
-  <a href="https://github.com/topics/git"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-  <a href="https://github.com/topics/github"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-    
-    Platform:
-  <a href="https://github.com/topics/node"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-  <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"/></a>
-    
-    Tools:
-  <a href="https://github.com/topics/framer"><img src="https://shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/></a>
-  <a href="https://github.com/topics/figma"><img src="https://shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
-  <a href="https://github.com/topics/adobe-XD"><img src="https://shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white"/></a>
-  <a href="https://github.com/topics/illustrator"><img src="https://shields.io/badge/Adobe%20Illustrator-FF61F6?style=flat&logo=adobe-illustrator&logoColor=white"/></a>
-  <a href="https://github.com/topics/photoshop"><img src="https://shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/></a>
+<h2>IDE:</h2> 
+<a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp;
+
+</br>
+<h2>Web Development:</h2> 
+<a href="https://github.com/topics/html5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/css3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/react-native"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/react-router"><img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>&nbsp;
+</br>
+<h2>Version Control:</h2> 
+<a href="https://github.com/topics/git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+</br>
+<h2>Platform:</h2>
+<a href="https://github.com/topics/node"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/npm"><img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>&nbsp;
+</br>
+<h2>Tools:</h2>
+<a href="https://github.com/topics/notion"><img src="https://shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/framer"><img src="https://shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/figma"><img src="https://shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/adobe-XD"><img src="https://shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/illustrator"><img src="https://shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/photoshop"><img src="https://shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>&nbsp;
 </div>
 </details>
-
