@@ -1,35 +1,29 @@
-<div align="center">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Hello there! Nice to see you.</h1>
+# Hello there! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  <p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development and UI/UX design.</p>
-</div>
+<p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development and UI/UX design.</p>
 
-#### What's going on?
+#### What's happening?
 
 - 🌱 I’m currently learning [React](https://github.com/Gr3it/portfolio), [React-Native](https://github.com/Gr3it/Color-Screentest), and [C++ (At university)](https://github.com/Gr3it/Exercise).
 - 🔭 I’m always expanding my knowledge about web development to become a <em>full-stack web developer!</em>
 - 📈 I'm also interested in the cryptocurrency world!
 
-<div>
-  <details>    
-    <summary><b>My stats</b></summary>
-  <br>
-  <a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Gr3it&theme=minimal&custom_title=Contributions%20in%20the%20last%2031%20days"/>
-  </a>    
-  
-  <a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gr3it&show_icons=true&theme=default"/>
-  </a>   
-  
-  <a href="https://github.com/Gr3it?tab=repositories&q=&type=public" align="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3it&layout=compact&theme=default"  align="top"/>
-  </a>
-</details>
+<br>
+    
+# 📈 My stats
+<a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gr3it&show_icons=true&theme=default"/>
+</a>
 
-  <details>
-    <summary><b>My favorite languages, tools and technologies</b></summary>
-  <br>
+<a href="https://github.com/Gr3it?tab=repositories&q=&type=public" align="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3it&layout=compact&theme=default"  align="top"/>
+</a>
+
+<br>
+<br>
+<br>
+
+# 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</br>
 
 <h2>IDE:</h2> 
 <a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp;
@@ -59,5 +53,3 @@
 <a href="https://github.com/topics/adobe-XD"><img src="https://shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/illustrator"><img src="https://shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/photoshop"><img src="https://shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></a>&nbsp;
-</div>
-</details>
