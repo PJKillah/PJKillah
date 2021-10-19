@@ -1,8 +1,10 @@
-# Hello there! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World. I'm Emanuele.
+
+## Who I am?
 
 <p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development and UI/UX design.</p>
 
-#### What's happening?
+## What's happening?
 
 - 🌱 I’m currently learning [React](https://github.com/Gr3it/portfolio), [React-Native](https://github.com/Gr3it/Color-Screentest), and [C++ (At university)](https://github.com/Gr3it/Exercise).
 - 🔭 I’m always expanding my knowledge about web development to become a <em>full-stack web developer!</em>
@@ -42,7 +44,6 @@
 <a href="https://github.com/topics/github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 </br>
 <h2>Platform:</h2>
-<a href="https://github.com/topics/node"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/npm"><img src="https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>&nbsp;
 </br>
