@@ -4,7 +4,7 @@
 
 <p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development and UI/UX design.</p>
 
-## What's happening?
+## A Few Quick Facts
 
 - 🌱 I’m currently learning [React](https://github.com/Gr3it/portfolio), [React-Native](https://github.com/Gr3it/Color-Screentest), and [C++ (At university)](https://github.com/Gr3it/Exercise).
 - 🔭 I’m always expanding my knowledge about web development to become a <em>full-stack web developer!</em>
