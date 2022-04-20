@@ -2,7 +2,7 @@
 
 ## Who I am?
 
-<p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development and UI/UX design.</p>
+<p>I am a bachelor's student based in Trento, Italy. While following an IT study formation, I am also a passionate autodidact in Web Development, UI/UX design and blockchain Smart Contract Development.</p>
 
 ## A Few Quick Facts
 
@@ -29,6 +29,7 @@
 
 <h2>IDE:</h2> 
 <a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/remix"><img src="https://img.shields.io/badge/REMIX-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>&nbsp;
 
 </br>
 <h2>Web Development:</h2> 
@@ -38,6 +39,8 @@
 <a href="https://github.com/topics/react"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/react-native"><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/react-router"><img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/solidity"><img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/topics/ethers"><img src="https://img.shields.io/badge/-Ethers.js-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>&nbsp;
 </br>
 <h2>Version Control:</h2> 
 <a href="https://github.com/topics/git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp;
