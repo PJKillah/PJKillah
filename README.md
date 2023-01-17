@@ -9,20 +9,6 @@
 - 🌱 I’m currently learning React.
 - 🔭 I’m always expanding my knowledge about web development to become a <em>front-end developer!</em>
 
-<br>
-    
-# 📈 My stats
-<a href="https://github.com/Gr3it?tab=repositories&q=&type=public">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gr3it&show_icons=true&theme=default"/>
-</a>
-
-<a href="https://github.com/Gr3it?tab=repositories&q=&type=public" align="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3it&layout=compact&theme=default"  align="top"/>
-</a>
-
-<br>
-<br>
-<br>
 
 # 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</br>
 
@@ -31,7 +17,6 @@
 <a href="https://github.com/topics/remix"><img src="https://img.shields.io/badge/REMIX-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>&nbsp;
 
 </br>
-<h2>Blockchain Development:</h2> 
 
 </br>
 <h2>Web Development:</h2> 
