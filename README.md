@@ -14,11 +14,8 @@
 
 <h2>IDE:</h2> 
 <a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/topics/remix"><img src="https://img.shields.io/badge/REMIX-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>&nbsp;
 
-</br>
 
-</br>
 <h2>Web Development:</h2> 
 <a href="https://github.com/topics/html5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/topics/css3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp;
